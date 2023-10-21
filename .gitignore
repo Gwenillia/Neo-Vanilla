@@ -1,0 +1,4 @@
+.DS_Store
+*.mrpack
+config/voicechat/username-cache.json
+shaderpacks/*.txt
