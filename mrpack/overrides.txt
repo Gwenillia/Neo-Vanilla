@@ -7,13 +7,6 @@ config/xaeroworldmap.txt
 config/sodium-extra-options.json
 config/indium-renderer.properties
 config/cem.conf
-config/physicsmod/physics_blocks_client_config.json
-config/physicsmod/physics_cloth_config.json
-config/physicsmod/physics_mobs_client_config.json
-config/physicsmod/physics_vines_client_config.json
-config/physicsmod/physics_client_config.json
-config/physicsmod/physics_server_config.json
-config/physicsmod/physics_animations_client_config.json
 config/languagereload.json
 config/xaerominimap_entities.json
 config/debugify.json
@@ -136,7 +129,6 @@ config/skinlayers.json
 config/fsb-interop.json
 config/citresewn.json
 config/betterthirdperson.json5
-mods/physics-mod-pro-v163-fabric-1.20.2.jar
 mods/Rrls-3.2.1-1.20.2-fabric.jar
 mods/axolotl-item-fix-1.1.7.jar
 resourcepacks/Mod Menu Helper.zip
