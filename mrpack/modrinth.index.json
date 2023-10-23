@@ -1007,19 +1007,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Q1vvjJYV/versions/s5emiqLD/BSL_v8.2.06.zip"
+        "https://cdn.modrinth.com/data/HVnmMxH1/versions/NKGyBgjH/ComplementaryReimagined_r5.0.1.zip"
       ],
-      "fileSize": 938963,
+      "fileSize": 402256,
       "hashes": {
-        "sha1": "ff2bc075e53fe277cf463fc467776abff9d32d52",
-        "sha512": "ea4a6f7ec06670ffb80bc4e24a258a79daa41e508505089f9b2e234be83ccdf19b4807bb9a095253af97bfab3e13816f111c391cc6ad3256273b1df797ddbe4b"
+        "sha1": "4879d9bbb16ff50ebb75b4b3e11b4093b76ae20d",
+        "sha512": "f364ec696ee3bb2982e65d5b0a8211597cc7129f53f0e78278ba7be78dbacd821807ba9b28b700f4ebba886612ea8b6da0fb7fc124d3635fb67d83a9bb2f01f6"
       },
-      "path": "shaderpacks/BSL_v8.2.06.zip"
+      "path": "shaderpacks/ComplementaryReimagined_r5.0.1.zip"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
-  "name": "La vanille en last",
-  "summary": "Une expérience à la vanille mais update",
-  "versionId": "0.1.0"
+  "name": "Neo Vanilla",
+  "versionId": "0.3.2"
 }
