@@ -16,3 +16,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
 
+[unreleased]: https://github.com/Gwenillia/Neo-Vanilla/compare/0.3.2...HEAD
