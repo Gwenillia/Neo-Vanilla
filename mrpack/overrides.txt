@@ -137,6 +137,7 @@ config/betterthirdperson.json5
 mods/Rrls-3.2.1-1.20.2-fabric.jar
 mods/axolotl-item-fix-1.1.7.jar
 mods/auditory-0.0.7-1.20.2.jar
+mods/Dynmap-3.7-beta-1-fabric-1.20.2.jar
 mods/soundphysics-fabric-1.20.2-1.2.1.jar
 resourcepacks/Mod Menu Helper.zip
 options.txt
